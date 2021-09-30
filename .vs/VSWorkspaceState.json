@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VueCSApp",
+    "\\VueCSApp\\App_Start",
+    "\\VueCSApp\\src",
+    "\\VueCSApp\\src\\router",
+    "\\VueCSApp\\Views\\Shared",
+    "\\VueCSApp\\wwwroot",
+    "\\VueCSApp\\wwwroot\\dist",
+    "\\VueCSApp\\wwwroot\\dist\\js"
+  ],
+  "SelectedNode": "\\VueCSApp.sln",
+  "PreviewInSolutionExplorer": false
+}
